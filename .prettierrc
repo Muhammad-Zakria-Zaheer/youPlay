@@ -1,0 +1,7 @@
+{
+    "signleQuote": true,
+    "bracketSpacing": "true",
+    "tabwidth": 2,
+    "trailingComma": "none",
+    "semi": true
+}
